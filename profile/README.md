@@ -10,7 +10,7 @@
 a secure funnel for selling items to your friends and network.
     <br />
   <br />
-    <a href="https://diush.xyz"><strong>learn more at diush.xyz »</strong></a>
+    <a href="https://diush.xyz"><strong>learn more at diush.xyz »</strong></a> (wesbite takes a while to load initially for some reason, fixing later)
     <br />
     <br />
   </p>
