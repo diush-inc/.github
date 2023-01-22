@@ -10,7 +10,7 @@
 a secure funnel for selling items to your friends and network.
     <br />
   <br />
-    <a href="https://joinsafe.me"><strong>learn more at diush.xyz »</strong></a>
+    <a href="https://diush.xyz"><strong>learn more at diush.xyz »</strong></a>
     <br />
     <br />
   </p>
